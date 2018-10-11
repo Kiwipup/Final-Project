@@ -34,7 +34,7 @@ to keep track of all the usernames, passwords, calendars, etc.
 ## Design structure
 
 For the design I am likely going to want a sign in page, and I would like for each user to have a dashboard that has their calendar, the calendar will correctly show the month we are in and it will highlight the current day. From their dashboard they can manage their groups, add tasks to the calendar, and access any
-account settings such as changing their password or email. I do not want the site to have any distracting photos or flashy decoration. It needs to draw attention to the important areas and make it easy to navigate.
+account settings such as changing their password or email. Tasks that have not been completed on the proper day will turn red and a notification will be sent to the owner as well as any assignee. A task that is marked completed will disappear and reappear on the next day it is set to be done. However if an assignee marks it completed, it will simply turn green, only the calendar owner can remove them. I do not want the site to have any distracting photos or flashy decoration. It needs to draw attention to the important areas and make it easy to navigate.
 
 ## Data storage
 
