@@ -13,7 +13,7 @@ or the user who has been assigned that task.
 
 ## User Story
 
-As a user, I would like an application that brings accountability to chores or other tasks
+As a busy young adult, I would like an application that brings accountability to chores or other tasks
 by letting me track their completion. It needs to be something that allows me to keep track of
 the most recent time they were last completed, and also let me set up reminders so I don't forget
 when it is time to do them again.
