@@ -41,4 +41,4 @@ account settings such as changing their password or email. Tasks that have not b
 
 The most obvious information that will need to be stored is each user's personal information. So any login credentials, emails, and phone numbers. If I am going to be creating a system that allows users to set up notifications, I will also need to store that input and send out those reminders at the correct times, to the correct place. If possible I would like to somehow configure push notifications but I have not yet looked into the complexity of creating something like that. I want users to be able to set how often they need a particular task to be done so that it will populate on their calendar again at the correct interval after it has been marked completed. For this I will have to store their preference with each corresponding task.
 
-
+[homepage_wireframe](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.0&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ9FEBoQEq6_U7ShJvrihNLemBqyzr_U6ZrF4VNQ-31kgPUmZpLAH6Y75fA89uXHrGcik16c_fjQTR5Onc-xIl6fLcnDS_KgZ0r9XQVmRgBUYlWVwptepJ-agv4&ats=2524608000000&sz=w2560-h1380)
