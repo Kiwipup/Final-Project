@@ -1,16 +1,16 @@
 # Outline for final project
 
-* [homepage_wireframe](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.0&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ9FEBoQEq6_U7ShJvrihNLemBqyzr_U6ZrF4VNQ-31kgPUmZpLAH6Y75fA89uXHrGcik16c_fjQTR5Onc-xIl6fLcnDS_KgZ0r9XQVmRgBUYlWVwptepJ-agv4&ats=2524608000000&sz=w2560-h1380)
+* [homepage_wireframe](https://drive.google.com/open?id=0B9ZWNfq8o1oJNEhOSlBrck9KYUk4bkRpaWQ0UkxuWDVPSGo4)
 
-* [signup_page_wireframe](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.8&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ8poyMRtV1UKiWNwWz_T-QMnwu9j3-IIoXWcYc73eh2hqd7yiGKrNl1Komtqpi4zjeYvgaoynF4n0lm4X6MgB5CbY9bGlffSHFoawmxSGYEVp2eJ1JaSlzLuP8&ats=2524608000000&sz=w2560-h1380)
+* [signup_page_wireframe](https://drive.google.com/open?id=0B9ZWNfq8o1oJbTUtNURNMzktRm5RYUFPSFRUM2FkeXR6bFlF)
 
-* [user_dashboard_wireframe](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.7&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ89K4C8XOfXpNn1H42RyWilIoJqSAVQpt79Hj2rlxp4LNQcGxhcSdAv5r4XJhq5WYYgG-qG8ZBWX1kg6HPUNGsY6C8gi-zRUByyHSb_FIS9_m0NNLHiV7sqM4I&ats=2524608000000&sz=w2560-h1380)
+* [user_dashboard_wireframe](https://drive.google.com/open?id=0B9ZWNfq8o1oJamxtMDczdUhFeUVIWWFhcXMyY2pNaDBpTkJv)
 
-* [reports_page_wireframe](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.6&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ-s1OyiMF7IXI4Jshui522oO8vIyoy3IVaWtHw945MttccGx1PYyWdZSiJEQijsFr_cMBVeRE7WbwARKVNcj4z2mLmiF1UmzeyG1SSxXZI4aEEM3CD0rSdbK1U&ats=2524608000000&sz=w2560-h1380)
+* [reports_page_wireframe](https://drive.google.com/open?id=0B9ZWNfq8o1oJNlg0QkxmcXdLMXI4YVF0WXY1NG5NSFNUdmRF)
 
-* [groups_pages_wireframe](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.4&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ_siFHqQzY0u-8V-toHIQ2U0uF-ejTPhSgUjsl1hfkcZEE92FuoYo6hg5JMjxSAvSWvTy2-NXps2yDjibtxHfxb4DYbBCNjJjebkm45NDsDLwdZdIwiHiwLK-A&ats=2524608000000&sz=w2560-h1380)
+* [groups_pages_wireframe](https://drive.google.com/open?id=0B9ZWNfq8o1oJREd5Nmh2U0paa1hnWnJuSHA4a0pfT3ZZR3k0)
 
-* [database_structure_outline](https://mail.google.com/mail/u/0?ui=2&ik=8d03360398&attid=0.2&permmsgid=msg-f:1615390001022005014&th=166b04a5b0a26f16&view=fimg&disp=thd&attbid=ANGjdJ9xgWwK5MXyjHlHkDCDJiewBs3fUiWtzsZlZtXLkCcniwJxaSG4ykz9U-nViANpbYLoKW1M15L2vc0u2Quuw1qMmsmQLR-Z214N2nF2zd7hLcufD563YeXc3x4&ats=2524608000000&sz=w2560-h1380)
+* [database_structure_outline](https://drive.google.com/open?id=0B9ZWNfq8o1oJcjgyRVFFd1V3c1ZMZk1wdkJGYldGeXpJbW84)
 
 ## Summary
 
